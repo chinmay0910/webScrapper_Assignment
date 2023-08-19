@@ -29,8 +29,10 @@ node index.js
 3. Once the scraping is complete, you can find the Excel files with the name `output.xlsx`
 
 ## Some Screenshots
-1. **Input Excel File:**
-
+1. **Input Excel File Image:**
+   ![WebScrapper-Input](https://github.com/chinmay0910/webScrapper_Assignment/assets/78205628/c65680da-f00e-4136-95a1-576be4d1e164)
+3. **Output Excel File Image:**
+  ![WebScrapper-Output](https://github.com/chinmay0910/webScrapper_Assignment/assets/78205628/570b5b22-efd9-408c-9ac9-81f6e0ef5e48)
 
 ##
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue to the project.
