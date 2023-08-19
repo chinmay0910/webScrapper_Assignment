@@ -1,0 +1,20 @@
+{
+  "name": "webscrapper_assignment",
+  "version": "1.0.0",
+  "description": "This is Project as an Assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebScrapper",
+    "Snapdeal"
+  ],
+  "author": "Chinmay Mhatre",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "puppeteer": "^21.1.0",
+    "string-similarity": "^4.0.4"
+  }
+}
